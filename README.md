@@ -6,4 +6,3 @@ A Web Front-end developer.
 
 - Read more about my [Blog](https://wymoe.com/)
 - Ping me by [Email](mailto:i@wymoe.com)
-- Follow me on [Twitter](https://twitter.com/WangYang96).
